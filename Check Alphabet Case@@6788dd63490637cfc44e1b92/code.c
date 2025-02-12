@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-    char inpot;
+    char inpot[50];
     scanf("%c",&inpot);
     if(a<=inpot && inpot<=z){
         printf("Lowercase");
