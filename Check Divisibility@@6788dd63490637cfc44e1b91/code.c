@@ -7,7 +7,7 @@ int main(){
         printf("Divisible");
     }
     else{
-        printf("Not Divible")
+        printf("Not Divible");
     }
     return 0;
 }
